@@ -6,5 +6,5 @@ function val = eigen_vector(A,n)
         mu = y(r);
         x = y/norm(y(r));
     end
-    val = x
+    val = x;
 end

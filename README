@@ -1,0 +1,3 @@
+pca_power pendigits_training pendigits_test 1 10
+pca_power satellite_training satellite_test 2 20
+pca_power yeast_training yeast_test 3 30
